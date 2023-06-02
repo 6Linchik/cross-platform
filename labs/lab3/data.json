@@ -1,0 +1,38 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "pages": 180,
+        "year": 1925
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 281,
+        "year": 1960
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "pages": 328,
+        "year": 1949
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "pages": 279,
+        "year": 1813
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "pages": 277,
+        "year": 1951
+    },
+    {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "pages": 209,
+        "year": 1927
+    }
+]
